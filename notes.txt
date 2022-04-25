@@ -1,0 +1,2 @@
+mongodb server start 
+/users/aksha/mongodb/bin/mongod.exe --dbpath=/users/aksha/mongodb-data
